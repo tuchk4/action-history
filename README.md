@@ -1,5 +1,7 @@
 # Bivrost (data layer for JS applications)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tuchk4/action-history.svg)](https://greenkeeper.io/)
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
